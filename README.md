@@ -1,2 +1,1 @@
-# For_MakerEDU
-Codes for MakerEDUvn's products
+# MakerEDUvn's Products
