@@ -20,7 +20,7 @@ bool state = LOW;           // Một biến kiểu boolean để lưu trạng th
                             // A boolean variable to store the LED's state
 
 unsigned long duration = 0; // Một biến số nguyên lớn để theo dõi hệ thống theo thời gian thực
-                            // An large integer to store real-time values
+                            // A large integer to store real-time values
 
 void setup() {
   pinMode(LED, OUTPUT); // Khai báo vai trò của chân số 9 (chân sẽ gắn đèn vào) là chân xuất tín hiệu. Các chân Analog không cần khai báo
